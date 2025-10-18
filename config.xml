@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <name>mobilelogin</name>
+    <displayName>Mobile Login</displayName>
+    <version>1.0.0</version>
+    <description>Enable login and registration with mobile number.</description>
+    <author>Your Name</author>
+    <tab>front_office_features</tab>
+    <is_configurable>1</is_configurable>
+    <confirmUninstall>Are you sure you want to uninstall?</confirmUninstall>
+</module>
